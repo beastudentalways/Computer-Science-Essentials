@@ -1,5 +1,8 @@
 ### Computer-Science-Essentials
 
+# OSI Model Working
+1. [IP-TCP_HTTP](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
+
 # How HTTPS works
 1. [What is public key cryptography](https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/)
 2. [What is SSL](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
