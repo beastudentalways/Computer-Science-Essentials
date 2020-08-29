@@ -1,4 +1,6 @@
 ### Computer-Science-Essentials
+# System Design
+1. [Tiny URL](https://nlogn.in/designing-a-realtime-scalable-url-shortening-service-like-tiny-url/)
 
 # OSI Model Working
 1. [IP-TCP-HTTP](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
