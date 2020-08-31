@@ -4,9 +4,9 @@
  * There should not be GOD class which does all the work.
  * There should not be too many classes with one function each, use common sense to design classes else a single class will have too many dependencies. 
 2. Open Closed Principle
- [Example1](https://www.baeldung.com/java-open-closed-principle)
- [Example2](https://springframework.guru/principles-of-object-oriented-design/open-closed-principle/)
-
+ [Example1](https://www.baeldung.com/java-open-closed-principle)   
+ [Example2](https://springframework.guru/principles-of-object-oriented-design/open-closed-principle/)    
+ 
 3. Liskov Substitution Principle
    [Example](https://reflectoring.io/lsp-explained/)
 
@@ -16,8 +16,8 @@
 5. Dependency Inversion
    [Example](https://springframework.guru/principles-of-object-oriented-design/dependency-inversion-principle/)
    
-Extra reads
-[IOC vs DI](https://myjavablog.com/2018/07/20/5-spring-inversion-of-controlioc-vs-dependency-injectiondi/)
+ Extra reads
+ [IOC vs DI](https://myjavablog.com/2018/07/20/5-spring-inversion-of-controlioc-vs-dependency-injectiondi/)
 
 # System Design
 1. [Tiny URL](https://nlogn.in/designing-a-realtime-scalable-url-shortening-service-like-tiny-url/)
