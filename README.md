@@ -1,4 +1,12 @@
 ### Computer-Science-Essentials
+# SOLID Design Principles
+Single Responsibilty Principle
+* There should not be GOD class which does all the work.
+* There should not be too many classes with one function each, use common sense to design classes else a single class will have too many dependencies. 
+Open Closed Principle
+ [Example1](https://www.baeldung.com/java-open-closed-principle)
+ [Example2](https://springframework.guru/principles-of-object-oriented-design/open-closed-principle/)
+
 # System Design
 1. [Tiny URL](https://nlogn.in/designing-a-realtime-scalable-url-shortening-service-like-tiny-url/)
 
