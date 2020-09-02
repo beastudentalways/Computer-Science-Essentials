@@ -2,6 +2,7 @@
 
 # System Design
 * [Consistent Hashing](https://www.acodersjourney.com/system-design-interview-consistent-hashing/)
+* [Caching Techniques](https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/)
 
 # Design Patterns
 
