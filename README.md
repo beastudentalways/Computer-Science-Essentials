@@ -1,4 +1,9 @@
 ### Computer-Science-Essentials
+
+# Design Patterns
+
+* [Decorator Design Pattern](https://www.baeldung.com/java-decorator-pattern)
+
 # SOLID Design Principles
 1. Single Responsibilty Principle
  * There should not be GOD class which does all the work.
