@@ -1,7 +1,7 @@
 ### Computer-Science-Essentials
 
 # System Design
-* [Consistent Hashing](https://medium.com/system-design-blog/consistent-hashing-b9134c8a9062)
+* [Consistent Hashing](https://www.acodersjourney.com/system-design-interview-consistent-hashing/)
 
 # Design Patterns
 
