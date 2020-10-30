@@ -20,6 +20,7 @@
  [Example2](https://springframework.guru/principles-of-object-oriented-design/open-closed-principle/)    
  
 3. Liskov Substitution Principle
+   [Example](https://www.baeldung.com/java-liskov-substitution-principle)
    [Example](https://reflectoring.io/lsp-explained/)
 
 4. Interface Segregation Principle
