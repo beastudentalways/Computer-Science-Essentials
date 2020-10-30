@@ -4,6 +4,9 @@
 * [Consistent Hashing](https://www.acodersjourney.com/system-design-interview-consistent-hashing/)
 * [Caching Techniques](https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/)
 
+# Design Principles vs Patterns
+* [Principles vs Patterns](https://softwareengineering.stackexchange.com/questions/153586/difference-between-pattern-and-principle/153589#:~:text=Patterns%20are%20to%20principles%2C%20what,factory%20methods%20in%20the%20end.&text=Well%2C%20Principles%20are%20rules%20while%20patterns%20are%20their%20concrete%20examples.)
+
 # Design Patterns
 
 * [Decorator Design Pattern](https://www.baeldung.com/java-decorator-pattern)
